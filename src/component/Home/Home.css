@@ -1,0 +1,21 @@
+.numbers {
+    background-color: #a82d49;
+    padding: 45px 0 25px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.numbers h2 {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 10px 0px ;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.numbers h6 {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 13px;
+}

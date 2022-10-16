@@ -1,0 +1,63 @@
+header{
+    margin-top: 0px;
+    background:url("../../assets/3.jpg")  center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0;
+}
+header .row {
+    margin: 50px 0 ;
+}
+header h2{
+    padding-top: 200px;
+    color: #43121d;
+    font-size: 55px;
+    margin: 0px 0px 25px;
+    font-weight: 800;
+    font-family: 'Quicksand', sans-serif;
+}
+header p {
+    width: 80%;
+    margin-bottom: 50px;
+}
+header button {
+    width: 140px;
+   height: 40px;
+  
+   box-sizing: border-box;
+   text-align: center;
+   margin-right: 30px;
+   font-weight: bold;
+   box-shadow: 0px 2px 10px -1px rgb(0 0 0 / 19%);
+ margin: 10px;
+}
+.btn1 {
+   
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    color: #fff;
+
+
+}
+.btn1:hover {
+    background-color: white ;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+    transition: 0.2s  ease-in-out ;
+    
+}
+.btn2 {
+    background-color: #ffffff;
+    border: 1px solid #f9f9f9;
+    color: #000;
+
+}
+.btn2:hover {
+    color:#a82d49;
+    border: 2px solid #a82d49;
+    transition: 0.2s  ease-in-out ;
+}
